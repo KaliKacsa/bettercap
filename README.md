@@ -29,7 +29,3 @@ bettercap is a powerful, easily extensible and portable framework written in Go 
 ## License
 
 `bettercap` is made with ♥  by [the dev team](https://github.com/orgs/bettercap/people) and it's released under the GPL 3 license.
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/bettercap/bettercap.svg)](https://starchart.cc/bettercap/bettercap)
