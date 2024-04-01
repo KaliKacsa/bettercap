@@ -13,7 +13,7 @@ Bettercap adatforgalom monitorozására szolgáló tool, felhasználóbarát.
 
  net.probe on
  net.show
- set.arp spoof.targets (írd be az eszköz ip címét amelyik eszközt szeretnéd monitorozni.)
+ set arp.spoof.targets (írd be az eszköz ip címét amelyik eszközt szeretnéd monitorozni.)
  arp.spoof on
-
+net.sniff on
  
